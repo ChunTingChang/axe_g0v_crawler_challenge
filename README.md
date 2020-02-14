@@ -11,3 +11,6 @@ This repo provides python script for axe_g0v crawler challenge (http://axe.g0v.t
 
 ### [Level 3](http://axe.g0v.tw/level/3)
 這一次的網站頁數不是透過網址傳，而是存在 session ，將裡面的資料取出吧
+
+### [Level 4](http://axe.g0v.tw/level/4)
+這次網站的規格有包含擋機器人，用了兩種判斷擋掉非人類..，將裡面的資料取出吧
